@@ -1,7 +1,7 @@
 name: Cortography
 favicon: null
-layout_spectrum: 0.7327096310909837
-typography_spectrum: 0.7588040293194354
+layout_spectrum: 1
+typography_spectrum: 0.232
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.5568252576049417
-  lightness: 0.05159758706577122
+    - '#010101'
+    - '#3d4a50'
+    - '#818586'
+    - '#b9b7ac'
+    - '#ffffff'
+  brandStrength: 0
+  lightness: 0.5
   saturation: 0.8587160168681294
   rhythmicContrast: 0.10550989978946745
 purpose: []
