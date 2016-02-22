@@ -2,6 +2,7 @@ name: Cortography
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.232
+title: This is the Site Title space
 cta:
   domain: null
   bucket: null
