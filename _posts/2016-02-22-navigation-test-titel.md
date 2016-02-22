@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Desc Navihg
-datePublished: '2016-02-22T20:45:45.605Z'
-dateModified: '2016-02-22T20:45:21.482Z'
+datePublished: '2016-02-22T23:30:08.140Z'
+dateModified: '2016-02-22T23:29:33.657Z'
 title: Navigation Test titel
 author: []
+sourcePath: _posts/2016-02-22-navigation-test-titel.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-22-navigation-test-titel.md
-published: true
 url: navigation-test-titel/index.html
-_type: WebPage
+_type: Article
 
 ---
 > # This is a test for Navigation
