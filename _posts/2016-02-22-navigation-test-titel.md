@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Desc Navihg
-datePublished: '2016-02-23T17:41:56.891Z'
-dateModified: '2016-02-23T17:41:53.040Z'
+datePublished: '2016-02-23T17:43:23.466Z'
+dateModified: '2016-02-23T17:43:21.140Z'
 title: Home Page
 author: []
 sourcePath: _posts/2016-02-22-navigation-test-titel.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: home-page/index.html
+_type: Article
 
 ---
 > # This is a test for Navigation
