@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Change it]]></title>
         <description><![CDATA[Change it]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cortography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 17:43:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 17:43:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cortography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[3 Prague Photos]]></title>
+            <description><![CDATA[<article><h1>3 Prague Photos</h1><p>The bridge below</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7563023517e4a2b63139c43e32cd25b608d9bc1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cortography/ca0a4a0b-3b91-4b34-8b30-4e4fd2b34ab4/index.html</link>
+            <guid isPermaLink="false">ca0a4a0b-3b91-4b34-8b30-4e4fd2b34ab4</guid>
+            <pubDate>Tue, 23 Feb 2016 17:43:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home Page]]></title>
             <description><![CDATA[<article><h1>Home Page</h1><p>Desc Navihg</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5987dd3460dd7dd738db62e9867c7e8c8887cbe0.jpg"></article>]]></description>
-            <link>undefinedhome-page/index.html</link>
+            <link>https://thegrid.ai/cortography/home-page/index.html</link>
             <guid isPermaLink="false">d37102d1-fc2d-4251-b782-6e5cbcf3a97f</guid>
             <pubDate>Tue, 23 Feb 2016 17:43:23 GMT</pubDate>
         </item>
