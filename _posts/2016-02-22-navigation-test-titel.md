@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Desc Navihg
-datePublished: '2016-02-23T17:43:23.466Z'
-dateModified: '2016-02-23T17:43:21.140Z'
+datePublished: '2016-02-23T17:44:28.616Z'
+dateModified: '2016-02-23T17:44:25.459Z'
 title: Home Page
 author: []
 sourcePath: _posts/2016-02-22-navigation-test-titel.md
