@@ -4,15 +4,8 @@
         <description><![CDATA[This is the Site Title space]]></description>
         <link>https://thegrid.ai/cortography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 17:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 17:05:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cortography/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ef51cff-398f-46d9-8b86-752d8f8fbe59.jpg">]]></description>
-            <link>https://thegrid.ai/cortography/5f0c5d00-6c00-4dab-b9dc-d1e636686864/index.html</link>
-            <guid isPermaLink="false">5f0c5d00-6c00-4dab-b9dc-d1e636686864</guid>
-            <pubDate>Tue, 23 Feb 2016 17:01:16 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Navigation Test titel]]></title>
             <description><![CDATA[<article><h1>Navigation Test titel</h1><p>Desc Navihg</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5987dd3460dd7dd738db62e9867c7e8c8887cbe0.jpg"></article>]]></description>
