@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Desc Navihg
-datePublished: '2016-02-22T23:30:08.140Z'
-dateModified: '2016-02-22T23:29:33.657Z'
-title: Navigation Test titel
+datePublished: '2016-02-23T17:08:46.551Z'
+dateModified: '2016-02-23T17:07:21.442Z'
+title: Home Page
 author: []
 sourcePath: _posts/2016-02-22-navigation-test-titel.md
 published: true
