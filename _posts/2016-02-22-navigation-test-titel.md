@@ -1,27 +1,23 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-starred: false
-keywords: []
-description: Desc Navihg
-datePublished: '2016-02-23T17:44:28.616Z'
-dateModified: '2016-02-23T17:44:25.459Z'
-title: Home Page
-author: []
+datePublished: '2016-08-26T18:41:02.858Z'
 sourcePath: _posts/2016-02-22-navigation-test-titel.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-26T18:41:02.266Z'
+title: ''
+publisher: {}
+description: This is a test for Navigation
+inLanguage: null
+inNav: true
+starred: false
 url: home-page/index.html
 _type: Article
 
 ---
-> # This is a test for Navigation
+> This is a test for Navigation
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4237ad0-8f8f-4167-8aef-8ed5c9c5594e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5987dd3460dd7dd738db62e9867c7e8c8887cbe0.jpg)
